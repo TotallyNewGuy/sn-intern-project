@@ -17,11 +17,11 @@ This is a briefly introduction of what I did in the Sleep Number. I draw two dia
 # B. Register Thing
 ![image](https://github.com/TotallyNewGuy/work-project-diagram/blob/main/sleep%20number%20B)
 
-<p align="center">## Make this device as a cloud resource in AWS IoT core</p>
+<h2 align="center">## Make this device as a cloud resource in AWS IoT core</h2>
 
 # C. Get Credentials
 ![image](https://github.com/TotallyNewGuy/work-project-diagram/blob/main/sleep%20number%20C.png)
 
-<p align="center">## Interact with other AWS resources using this Assume Role</p>
+<h2 align="center">Interact with other AWS resources using this Assume Role</h2>
 
 
