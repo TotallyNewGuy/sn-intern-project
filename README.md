@@ -17,7 +17,7 @@ This is a briefly introduction of what I did in the Sleep Number. I draw two dia
 # B. Register Thing
 ![image](https://github.com/TotallyNewGuy/work-project-diagram/blob/main/sleep%20number%20B)
 
-<h2 align="center">## Make this device as a cloud resource in AWS IoT core</h2>
+<h2 align="center">Make this device as a cloud resource in AWS IoT core</h2>
 
 # C. Get Credentials
 ![image](https://github.com/TotallyNewGuy/work-project-diagram/blob/main/sleep%20number%20C.png)
