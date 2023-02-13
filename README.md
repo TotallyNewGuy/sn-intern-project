@@ -10,10 +10,18 @@ This is a briefly introduction of what I did in the Sleep Number. I draw two dia
 
 §	Implemented Flask and Python to write Scripts in Linux to build Automation which make devices registered in AWS automatically through AWS Cognito and IAM.
 §	Migrated and provisioned over 1 million devices to AWS IoT Core to collaborate with AWS services.
+
+# A. Install Provisional Cliam
 ![image](https://github.com/TotallyNewGuy/work-project-diagram/blob/main/sleep%20number%20A)
 
+# B. Register Thing
 ![image](https://github.com/TotallyNewGuy/work-project-diagram/blob/main/sleep%20number%20B)
 
-![image](https://github.com/TotallyNewGuy/work-project-diagram/blob/main/sleep%20number%20C)
+## Make this device as a cloud resource in AWS IoT core
+
+# C. Get Credentials
+![image](https://github.com/TotallyNewGuy/work-project-diagram/blob/main/sleep%20number%20C.png)
+
+## Interact with other AWS resources using this Assume Role
 
 
