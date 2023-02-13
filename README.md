@@ -1,4 +1,4 @@
-# work-project-diagram
+# Sleep Number work project diagram
 This is a briefly introduction of what I did in the Sleep Number. I draw two diagrams to explain the structure.  
 
 1. Used Spring Cloud, Spring Boot and Kafka to build a Data Platform capture 1 billion bio-data a day.  
