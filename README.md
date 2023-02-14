@@ -20,11 +20,11 @@ I draw two diagrams to explain the structure.
 ### Step 2: Register Thing
 ![image](https://github.com/TotallyNewGuy/work-project-diagram/blob/main/sleep%20number%20B.png)
 
-Make this device as a cloud resource in AWS IoT core  
+<h4 align="center">Make this device as a cloud resource in AWS IoT core</h4>  
 
 ### Step 3: Get Credentials
 ![image](https://github.com/TotallyNewGuy/work-project-diagram/blob/main/sleep%20number%20C.png)
 
-Interact with other AWS resources using this Assume Role  
+<h4 align="center">Interact with other AWS resources using this Assume Role</h4>  
 
 
