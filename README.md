@@ -14,15 +14,15 @@ I draw two diagrams to explain the structure.
 1. Implemented Flask and Python to write Scripts in Linux to build Automation which make devices registered in AWS automatically through AWS Cognito and IAM.  
 2. Migrated and provisioned over 1 million devices to AWS IoT Core to collaborate with AWS services.  
 
-<h4 align="center">Step 1: Install Provisional Cliam</h4>
+<h4 align="center">Step 1: Install Provisional Cliam</h4>  
 ![image](https://github.com/TotallyNewGuy/work-project-diagram/blob/main/sleep%20number%20A.png)
 
-<h4 align="center">Step 2: Register Thing</h4>
+<h4 align="center">Step 2: Register Thing</h4>  
 ![image](https://github.com/TotallyNewGuy/work-project-diagram/blob/main/sleep%20number%20B.png)
 
 Make this device as a cloud resource in AWS IoT core  
 
-<h4 align="center">Step 3: Get Credentials</h4>
+<h4 align="center">Step 3: Get Credentials</h4>  
 ![image](https://github.com/TotallyNewGuy/work-project-diagram/blob/main/sleep%20number%20C.png)
 
 Interact with other AWS resources using this Assume Role  
