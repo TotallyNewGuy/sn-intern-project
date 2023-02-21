@@ -1,7 +1,7 @@
 # Intership projects  
 
-The Commons XR -> [jump](#jump1)  
-Sleep Number -> [jump](#jump2)  
+### The Commons XR -> [jump](#jump1)  
+### Sleep Number -> [jump](#jump2)  
 
 <span id="jump1"></span>
 # 1. The Commons XR :: 01/2023 - current
