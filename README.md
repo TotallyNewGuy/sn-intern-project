@@ -1,5 +1,5 @@
 # Intership projects  
-# 1. The Commons XR - 01/2023 - current
+# 1. The Commons XR :: 01/2023 - current
 This is a briefly introduction of what I did duiring my second internship at The Commons XR (2023 spring).  
 I drawn some diagrams to explain my results.  
 
@@ -28,7 +28,7 @@ I drawn some diagrams to explain my results.
 ![image](https://github.com/TotallyNewGuy/work-project-diagram/blob/main/TC/azure.png)  
 
 
-# 2. Sleep Number - 05/2022 - 08/2022
+# 2. Sleep Number :: 05/2022 - 08/2022
 This is a briefly introduction of what I did duiring my first internship at Sleep Number(2022 summer).  
 I drawn two diagrams to explain my results.  
 
