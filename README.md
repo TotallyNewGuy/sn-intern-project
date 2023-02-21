@@ -1,4 +1,25 @@
-# Sleep Number - intership project introduction
+# 1. The Commons XR - intership project - 01/2023 - current
+This is a briefly introduction of what I did duiring my second internship at The Commons XR (2023 spring).  
+I drawn some diagrams to explain my results.  
+
+## A. Used server-side-rendering to improving website performance
+▪ Created React components in Typescript with Chakra UI based on Figma design from UI/UX team.  
+▪ Utilized Next and Node to do some Server-Side Rendering to improve almost 50% performance.  
+
+![image](https://github.com/TotallyNewGuy/work-project-diagram/blob/main/TC/CSR.png)  
+
+![image](https://github.com/TotallyNewGuy/work-project-diagram/blob/main/TC/SSR.png)
+
+## B. Implemented express-seesion to record users
+▪ Used express-session and Redis to track users, rewrite URL to pass session ID if cookie is disabled.
+
+![image](https://github.com/TotallyNewGuy/work-project-diagram/blob/main/TC/login.png)
+
+![image](https://github.com/TotallyNewGuy/work-project-diagram/blob/main/TC/call.png)
+
+
+
+# 2. Sleep Number - intership project - 05/2022 - 08/2022
 This is a briefly introduction of what I did duiring my first internship at Sleep Number(2022 summer).  
 I drawn two diagrams to explain my results.  
 
