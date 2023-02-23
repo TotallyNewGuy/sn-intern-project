@@ -43,7 +43,7 @@ I drawn two diagrams to explain my results.
 ▪ Optimized AWS Lambda function with multiprocessing that make 30% Cost Reduction in pipeline.  
 ▪ Exerted SQL to select and store data to DynamoDB and S3 which triggered by AWS EventBridge.  
 
-![image](https://github.com/TotallyNewGuy/work-project-diagram/blob/main/SN/sleep%20number%201.png)
+![image](https://github.com/TotallyNewGuy/work-project-diagram/blob/main/SN/sleep%20number-data.png)
 
 ## B. Wrote a script which can provisioning over 1 million IoT device in AWS
 ▪ Implemented Flask and Python to write Scripts in Linux to build Automation which make devices registered in AWS automatically through AWS Cognito and IAM.  
