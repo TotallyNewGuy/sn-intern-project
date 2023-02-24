@@ -38,12 +38,12 @@ This is a briefly introduction of what I did duiring my first internship at Slee
 I drawn two diagrams to explain my results.  
 
 ## A. Built a data automation pipeline from IoT devices to AWS
-▪ Used Spring Cloud, Spring Boot and Kafka to build a Data Platform capture 1 billion bio-data a day.  
+▪ Used Spring Cloud and Kafka to build a Data Platform capture 1 billion bio-data a day.  
 ▪ Built a CI/CD Pipeline to process Parquet and Protocol Buffer files from Kafka using Pandas.  
 ▪ Optimized AWS Lambda function with multiprocessing that make 30% Cost Reduction in pipeline.  
 ▪ Exerted SQL to select and store data to DynamoDB and S3 which triggered by AWS EventBridge.  
 
-![image](https://github.com/TotallyNewGuy/work-project-diagram/blob/main/SN/sleep%20number-data.png)
+![image](https://github.com/TotallyNewGuy/work-project-diagram/blob/main/SN/sleep-number-df.png)
 
 ## B. Wrote a script which can provisioning over 1 million IoT device in AWS
 ▪ Implemented Flask and Python to write Scripts in Linux to build Automation which make devices registered in AWS automatically through AWS Cognito and IAM.  
