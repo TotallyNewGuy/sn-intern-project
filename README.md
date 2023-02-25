@@ -1,4 +1,4 @@
-# 1. Sleep Number :: 05/2022 - 08/2022
+# Sleep Number :: 05/2022 - 08/2022
 This is a briefly introduction of what I did duiring my first internship at Sleep Number(2022 summer).  
 I drawn two diagrams to explain my results.  
 
