@@ -4,9 +4,9 @@ I drawn two diagrams to explain my results.
 
 ### [A. Built a data automation pipeline from IoT devices to AWS](#jump1)  
 ### [B. Wrote a script which can provisioning over 1 million IoT device in AWS](#jump2)  
-####    [Step1. Install Provisional Cliam](#jump3)  
-####    [Step2. Register Thing](#jump4)  
-####    [Step3. Get Credentials](#jump5)  
+#### [&enspStep1. Install Provisional Cliam](#jump3)  
+#### [&enspStep2. Register Thing](#jump4)  
+#### [&enspStep3. Get Credentials](#jump5)  
 
 <span id="jump1"></span>
 ## A. Built a data automation pipeline from IoT devices to AWS
