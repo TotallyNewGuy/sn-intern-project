@@ -2,6 +2,8 @@
 This is a briefly introduction of what I did duiring my first internship at Sleep Number(2022 summer).  
 I drawn two diagrams to explain my results.  
 
+![image](https://github.com/TotallyNewGuy/sn-intern-project/blob/main/SN/sn.png)  
+
 ### [A. Built a data automation pipeline from IoT devices to AWS](#jump1)  
 ### [B. Wrote a script which can provisioning over 1 million IoT device in AWS](#jump2)  
 #### [Step1. Install Provisional Cliam](#jump3)  
