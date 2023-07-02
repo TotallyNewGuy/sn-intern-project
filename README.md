@@ -1,5 +1,5 @@
 # Sleep Number, San Jose, CA
-05/2022 - 08/2022
+05/2022 - 08/2022<br />
 _Software Engineer Intern_
 
 This is a briefly introduction of what I did duiring my first internship at Sleep Number(2022 summer).  
